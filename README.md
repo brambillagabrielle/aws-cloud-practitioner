@@ -4,9 +4,17 @@ Este repositório tem como objetivo **centralizar recursos** que possam ajudar n
 
 ## 📚 Materiais Oficiais
 
-1. [Página da Certificação](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/)
-2. [Guia do Exame](https://docs.aws.amazon.com/pt_br/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
-3. [Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS?parentId=1FKNHGZFR3)
+Os links listados abaixo correspondem a **materiais e cursos oficiais da Amazon Web Services (AWS)** referentes à certificação ou conteúdos relacionados:
+
+- [Página da Certificação](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/)
+- [Guia do Exame](https://docs.aws.amazon.com/pt_br/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
+- [Fundamentos da Nuvem AWS](https://aws.amazon.com/pt/getting-started/cloud-essentials/)
+- [Glossário da AWS](https://docs.aws.amazon.com/pt_br/glossary/latest/reference/glos-chap.html)
+- [AWS Cloud Adoption Framework (CAF)](https://d1.awsstatic.com/whitepapers/pt_BR/aws-cloud-adoption-framework_pt-BR.pdf)
+
+## Índice
+
+1. [Resumo dos Serviços AWS](#-resumo-dos-serviços-aws)
 
 ## 📄 Resumo dos Serviços AWS
 
@@ -28,6 +36,7 @@ As descrições de cada serviço foram escritas baseadas nas [páginas de produt
 
 ### 🔔 Integração de aplicações
 
+> [!NOTE]
 > Serviços relacionados com **arquiteturas distribuídas e desacoplamento**
 
 | Serviço                  | Resumo                                                   |
