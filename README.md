@@ -38,7 +38,7 @@ Este repositório tem como objetivo **centralizar recursos e dicas** que possam 
 **Resumo:** *Recuperação de falhas e atendimento da demanda*
 
 1. Recuperação automática de falhas;
-2. Aplicar testes nos procedimentos de recuperação;
+2. Testar os procedimentos de recuperação (Backup e Failover);
 3. Escalabilidade, dimensionamento correto e monitoramento de limites/quotas.
 
 ---
