@@ -58,7 +58,8 @@ Este repositório tem como objetivo **centralizar recursos e dicas** que possam 
 **Resumo:** *Evitar custos desnecessários*
 
 1. Gerenciamento financeiro dos custos na nuvem;
-2. Modelos de consumo, padrões de uso e pagamento conforme o uso.
+2. Modelos de consumo, padrões de uso e pagamento conforme o uso;
+3. Alocação de custos.
 
 ---
 
