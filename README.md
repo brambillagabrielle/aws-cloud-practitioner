@@ -39,8 +39,7 @@ Este repositório tem como objetivo **centralizar recursos e dicas** que possam 
 
 1. Recuperação automática de falhas;
 2. Aplicar testes nos procedimentos de recuperação;
-3. Escalabilidade, dimensionamento correto e monitoramento de limites/quotas;
-4. Rastreabilidade e detecção de eventos de segurança.
+3. Escalabilidade, dimensionamento correto e monitoramento de limites/quotas.
 
 ---
 
