@@ -66,7 +66,7 @@ Este repositório tem como objetivo **centralizar recursos e dicas** que possam 
 
 **Resumo:** *Minimizar impactos ambientais*
 
-1. Entender o impacto das cargas de trabalho;
+1. Entender o impacto ambiental (pegada de carbono, consumo energético) das cargas de trabalho;
 2. Maximizar a utilização e implementar designs eficientes;
 3. Adotar tecnologias mais eficientes e serviços gerenciados da nuvem.
 
